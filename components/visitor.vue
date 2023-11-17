@@ -90,14 +90,14 @@ async function addData() {
   background-color: #ffffff;
   height: 600px;
 }
-.row{
-  width: 90%;
+.row {
+  width: 80%;
   padding-top: 2%;
+  padding-left: 20%;
   font-family: "Josefin Sans", sans-serif;
   font-family: "Playpen Sans", cursive;
 }
 .btn {
-  margin-top: 2%;
   width: 80px;
   height: 40px;
   background-color: rgb(31, 86, 206);
